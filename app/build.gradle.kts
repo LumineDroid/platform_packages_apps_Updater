@@ -33,7 +33,7 @@ android {
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "org.lineageos.updater"
+        applicationId = "org.luminedroid.updater"
         minSdk = 32
         targetSdk = 33
         versionCode = 1
@@ -81,7 +81,7 @@ android {
             }
         }
     }
-    namespace = "org.lineageos.updater"
+    namespace = "org.luminedroid.updater"
 }
 
 dependencies {
